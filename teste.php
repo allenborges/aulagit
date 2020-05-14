@@ -1,1 +1,9 @@
-?> test
+<?php phpinfo();?>
+<?="teste";?>
+
+
+
+
+
+
+
